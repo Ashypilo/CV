@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CV - Andrii Shypilov</string>
+    <string name="skills">Android(Java, Kotlin), C/C++, SQLite, FireBase, Git</string>
+    <string name="overview">"Previously, I was involved in the promotion of board games.
+        But then I entered the Unit Factory for the course School 42. Now looking for a job as a mobile application developer.
+        Studying different programming languages and directions, I chose mobile development for myself as more interesting.</string>
+    <string name="unit">In the Unit Factory I studied at the rate of School 42, which was developed in France. This program is designed for self-study, without teachers. It develops peer-to-peer among students and the ability to find the necessary information on the Internet. Here I got the basics of programming and knowledge of programming languages C/C++, Java. The training consisted in the execution of projects.</string>
+    <string name="libft">1. Libft - Writing functions to create a library that will be used in future projects.(Programming language - С)\n https://github.com/Ashypilo/libft</string>
+    <string name="filler">2. Filler - Game project in which you need to fill the playing field faster than your opponent.(Programming language - С)\n https://github.com/Ashypilo/filler</string>
+    <string name="lem_in">3. Lem-in - Project in which you need to find the shortest and most effective way that ants can go.(Programming language - С)\n https://github.com/Ashypilo/Lem-in</string>
+    <string name="corwar">4. Corwar - This command project involves creating a virtual arena, and having simplistic-language programs fight each other.(Programming language - С)\n https://github.com/Ashypilo/Corwar</string>
+    <string name="Piscine_CPP">5. Piscine_CPP - Getting the basics of a programming language CPP.\n https://github.com/Ashypilo/Piscine-CPP</string>
+    <string name="AbstractVM">6. AbstractVM - Is a machine that uses a stack to compute simple arithmetic expressions. (Programming language - СPP)\n https://github.com/Ashypilo/Abstract_VM</string>
+    <string name="Avay_launcher">7. Avay-launcher - Implementation of a simple Java program according to a given class diagram written in UML. (Programming language - JAVA)\n https://github.com/Ashypilo/avaj-launcher</string>
+    <string name="Swingy_RPG">8. SWINGY-RPG - 2D RPG game on the framework SWING.(Programming language - JAVA)\n https://github.com/Ashypilo/swingy_rpg</string>
+    <string name="ft_hangouts">9. Ft_hangouts - Сreating a contact list for calls and email.(Programming language - JAVA(Android)) \n https://github.com/Ashypilo/ft_hangouts</string>
+    <string name="MindySupport">My job is to recognize objects, people, distinctive features on the street or indoors for further training in artificial intelligence.</string>
+    <string name="my_projects">Here are the projects that I did for myself and during self-study courses</string>
+    <string name="HP_Quiz">1. Quiz through the Harry Potter universe. (Programming language - Kotlin)</string>
+    <string name="CV">2. My CV as a mobile app. (Programming language - Kotlin)</string>
+    <string name="calculator">3. Regular calculator. (Programming language - Kotlin)</string>
+    <string name="FlappyBird">4. Game FlappyBird on the framework libGDX. (Programming language - JAVA)</string>
+    <string name="Messenger">5. Messenger for FireBase(Programming language - JAVA)</string>
+    <string name="Taxi_App">6. Taxi call app(Programming language - JAVA)</string>
+    <string name="Drawing_app">7. Drawing application(Programming language - Kotlin)</string>
+
+</resources>
